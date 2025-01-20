@@ -11,21 +11,18 @@ This repository demonstrates how to automate Continuous Integration and Continuo
   - Pushing images to Docker Hub.
 - **Secure Credentials**: Implements GitHub Secrets to manage Docker Hub login securely.
 
-## Creación  de Secrects en mi repositorio
-![cicd](docs/imagen1.png)
-<br>
-![cicd](docs/imagen2.png)
-<br>
-![cicd](docs/imagen3.png)
+## Creación de Secrets en mi repositorio
 
-## Creación  de Tokens en DockerHub
-![cicd](docs/imagen4.png)
-<br>
-![cicd](docs/imagen5.png)
-<br>
-![cicd](docs/imagen6.png)
-<br>
-![cicd](docs/imagen7.png)
+![Creación de Secrets - Imagen 1](docs/imagen1.png)
+![Creación de Secrets - Imagen 2](docs/imagen2.png)
+![Creación de Secrets - Imagen 3](docs/imagen3.png)
+
+## Creación de Tokens en DockerHub
+
+![Creación de Tokens - Imagen 1](docs/imagen4.png)
+![Creación de Tokens - Imagen 2](docs/imagen5.png)
+![Creación de Tokens - Imagen 3](docs/imagen6.png)
+![Creación de Tokens - Imagen 4](docs/imagen7.png)
 
 
 ## Estructura del proyecto
