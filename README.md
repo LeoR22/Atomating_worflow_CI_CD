@@ -13,16 +13,16 @@ This repository demonstrates how to automate Continuous Integration and Continuo
 
 ## Creación de Secrets en mi repositorio
 
-![Creación de Secrets - Imagen 1](docs/imagen1.png)
-![Creación de Secrets - Imagen 2](docs/imagen2.png)
-![Creación de Secrets - Imagen 3](docs/imagen3.png)
+![cicd](https://github.com/LeoR22/Atomating_worflow_CI_CD/blob/master/docs/Imagen1.png)
+![cicd](https://github.com/LeoR22/Atomating_worflow_CI_CD/blob/master/docs/Imagen2.png)
+![cicd](https://github.com/LeoR22/Atomating_worflow_CI_CD/blob/master/docs/Imagen3.png)
 
 ## Creación de Tokens en DockerHub
 
-![Creación de Tokens - Imagen 1](docs/imagen4.png)
-![Creación de Tokens - Imagen 2](docs/imagen5.png)
-![Creación de Tokens - Imagen 3](docs/imagen6.png)
-![Creación de Tokens - Imagen 4](docs/imagen7.png)
+![cicd](https://github.com/LeoR22/Atomating_worflow_CI_CD/blob/master/docs/Imagen4.png)
+![cicd](https://github.com/LeoR22/Atomating_worflow_CI_CD/blob/master/docs/Imagen5.png)
+![cicd](https://github.com/LeoR22/Atomating_worflow_CI_CD/blob/master/docs/Imagen6.png)
+![cicd](https://github.com/LeoR22/Atomating_worflow_CI_CD/blob/master/docs/Imagen7.png)
 
 
 ## Estructura del proyecto
